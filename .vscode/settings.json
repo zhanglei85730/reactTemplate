@@ -1,0 +1,22 @@
+{
+    "vetur.validation.template": false,
+    "workbench.activityBar.visible": true,
+    "window.zoomLevel": 1,
+    "eslint.options": {
+        "configFile": "d:/react/my-react-app/.eslintrc.json"
+    },
+    // eslint 配置
+    "eslint.alwaysShowStatus": true,
+    // eslint 配置
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        {
+            "language": "react",
+            "autoFix": true
+        }
+    ],
+    "eslint._legacyModuleResolve": true,
+    "javascript.implicitProjectConfig.experimentalDecorators": true
+}
